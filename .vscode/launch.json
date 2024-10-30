@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ifelse",
+      "request": "launch",
+      "mainClass": "controlFlow.Ifelse",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "controlFlow.Switch",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "java",
       "name": "ifelse",
       "request": "launch",
       "mainClass": "controlFlow.ifelse",
