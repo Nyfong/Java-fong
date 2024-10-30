@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ifelse",
+      "request": "launch",
+      "mainClass": "controlFlow.ifelse",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Launch Chrome for Debugging",
+      "webRoot": "${workspaceFolder}",
+      "sourceMaps": true
+    }
+  ]
+}
