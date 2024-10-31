@@ -19,3 +19,13 @@ public class Ternary {
     }
     
 }
+
+/*Note:
+ *   String result = 
+            //if
+            (user == gamePlayRandom) ? "Matched " + user :
+            //else if 
+             ((user != gamePlayRandom) ? "False " + gamePlayRandom 
+             //else
+             :"Matched " +user );  
+ */
