@@ -7,16 +7,20 @@ public class Ternary {
         String user = "rock";
         Random rand = new Random();
         
+        for ( int i = 0 ; i<Game.length ; i +=1)
+        {
+
             String gamePlayRandom = Game[rand.nextInt(Game.length)];
             String result = 
             //if
-            (user == gamePlayRandom) ? user :
+            (user == gamePlayRandom) ? "Matched " + user :
             //else if 
-             ((user != gamePlayRandom) ? gamePlayRandom 
+             ((user != gamePlayRandom) ? "False " + gamePlayRandom 
              //else
-             : "default");           
+             :"Matched " +user );           
             System.out.println(result);
         
+        }
         
     }
     
