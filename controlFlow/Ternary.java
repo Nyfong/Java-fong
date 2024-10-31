@@ -11,13 +11,7 @@ public class Ternary {
         {
 
             String gamePlayRandom = Game[rand.nextInt(Game.length)];
-            String result = 
-            //if
-            (user == gamePlayRandom) ? "Matched " + user :
-            //else if 
-             ((user != gamePlayRandom) ? "False " + gamePlayRandom 
-             //else
-             :"Matched " +user );           
+            String result = (user == gamePlayRandom) ? "Matched " + user :((user != gamePlayRandom) ? "False " + gamePlayRandom :"Matched " +user );           
             System.out.println(result);
         
         }
