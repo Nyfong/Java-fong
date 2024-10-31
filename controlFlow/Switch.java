@@ -13,6 +13,7 @@ public class Switch {
                  System.out.print(object.globalNumber); //11
                     break;
                  }
+                 
                 default -> {
                     System.out.println("None of above");
                 }

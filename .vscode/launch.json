@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ternary",
+      "request": "launch",
+      "mainClass": "controlFlow.Ternary",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "java",
       "name": "Ifelse",
       "request": "launch",
       "mainClass": "controlFlow.Ifelse",
