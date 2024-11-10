@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "jdbc_example_54a7e5a5"
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Launch Chrome for Debugging",
+      "webRoot": "${workspaceFolder}",
+      "sourceMaps": true
+    }
+  ]
+}

@@ -2,6 +2,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ChildDog",
+      "request": "launch",
+      "mainClass": "oop.inheritance.ChildDog",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "java",
+      "name": "MySQLConnection",
+      "request": "launch",
+      "mainClass": "MySQLConnection.src.MySQLConnection",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "databaseSql.Test",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "java",
+      "name": "Student",
+      "request": "launch",
+      "mainClass": "oop.Student",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "java",
       "name": "Ternary",
       "request": "launch",
       "mainClass": "controlFlow.Ternary",
