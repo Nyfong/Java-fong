@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ChildStudent",
+      "request": "launch",
+      "mainClass": "oop.inheritance.school.ChildStudent",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "java",
+      "name": "My_Calulator",
+      "request": "launch",
+      "mainClass": "oop.inheritance.calculator.My_Calulator",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "java",
       "name": "ChildDog",
       "request": "launch",
       "mainClass": "oop.inheritance.ChildDog",
