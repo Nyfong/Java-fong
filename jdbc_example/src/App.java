@@ -12,7 +12,7 @@ public class App {
             Class.forName("com.mysql.jdbc.Driver");
 
             // Establish the connection to the database
-            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/testing", "root", "fongfong");
+            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/testing", "root", "");
 
             // Create a Statement object to execute the query
             stmt = con.createStatement();
