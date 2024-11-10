@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "oop.poly.vechicle.Main",
+      "projectName": "GitRepo_4a539a30"
+    },
+    {
+      "type": "java",
       "name": "ChildStudent",
       "request": "launch",
       "mainClass": "oop.inheritance.school.ChildStudent",
